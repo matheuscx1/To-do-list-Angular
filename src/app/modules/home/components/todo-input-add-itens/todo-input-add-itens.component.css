@@ -1,0 +1,26 @@
+@import '../../../../../dist/css/variables.css';
+
+:host {
+  display: flex;
+  justify-content: center;
+  margin-top: -1.25rem;
+
+  input {
+    width: 80%;
+    border: none;
+    background-color: var(--black);
+    border-radius: 1.625rem;
+    font-size: 1rem;
+    color: var(--white);
+
+
+    padding: 0.625rem;
+    padding-left: 1.625rem;
+    box-sizing: border-box;
+
+    &::placeholder {
+      color: var(--white);
+      text-transform: capitalize;
+    }
+  }
+}
