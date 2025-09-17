@@ -20,5 +20,6 @@ Permite adicionar, editar, marcar como concluída e excluir tarefas, com persist
 - **CSS3** com variáveis customizadas
 - **Jasmine/Karma** (testes unitários)
 
-<img width="378" height="424" alt="image" src="https://github.com/user-attachments/assets/c2f266c4-9189-4ea8-990c-a9b3c2f5642d" />
+<img width="473" height="451" alt="image" src="https://github.com/user-attachments/assets/03bd66dd-0f79-41a6-9c1f-e63acca46c9c" />
+
 
